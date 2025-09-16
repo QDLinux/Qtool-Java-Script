@@ -1,0 +1,392 @@
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : Exception invoking imported object method. : at Line: 5 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/main.java : load ( 路径 + "yun.java" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.lang.RuntimeException: load /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java error
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:90)
+	... 16 more
+Caused by: Sourced file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : Method Invocation this.interpreter.eval : at Line: 1 : in file: /storage/emulated/0/QTool/Plugin/每日老婆/配置/yun.java : this .interpreter .eval ( po ( new String ( new byte [ ] { 
+
+Target exception: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:113)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.load(PluginMethod.java:75)
+	... 16 more
+Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.endsWith(java.lang.String)' on a null object reference
+	at bsh.Interpreter.eval(Interpreter.java:62)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.Reflect.invokeObjectMethod(Reflect.java:46)
+	at bsh.Name.invokeMethod(Name.java:139)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	... 23 more
+
