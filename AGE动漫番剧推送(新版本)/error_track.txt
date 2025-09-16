@@ -1,0 +1,432 @@
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+
+Sourced file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : Exception invoking imported object method. : at Line: 21 : in file: /storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/main.java : loadJar ( RootPath + "jsoup-1.13.1.jar" ) 
+
+Target exception: java.lang.reflect.InvocationTargetException
+
+	at bsh.BshMethod.invoke(BshMethod.java:8)
+	at bsh.BshMethod.invoke(BshMethod.java:2)
+	at bsh.Name.invokeLocalMethod(Name.java:42)
+	at bsh.Name.invokeMethod(Name.java:33)
+	at bsh.BSHMethodInvocation.eval(BSHMethodInvocation.java:58)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:9)
+	at bsh.BSHPrimaryExpression.eval(BSHPrimaryExpression.java:1)
+	at bsh.Interpreter.eval(Interpreter.java:15)
+	at bsh.Interpreter.eval(Interpreter.java:63)
+	at bsh.Interpreter.eval(Interpreter.java:61)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.f(PluginController.java:63)
+	at cc.hicore.qtool.JavaPlugin.Controller.a.g(PluginController.java:114)
+	at d2.j.run(R8$$SyntheticClass:37)
+	at java.lang.Thread.run(Thread.java:1012)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.lang.reflect.Method.invoke(Native Method)
+	at bsh.Reflect.invokeMethod(Reflect.java:44)
+	at bsh.BshMethod.invoke(BshMethod.java:7)
+	... 13 more
+Caused by: java.io.FileNotFoundException: Can't find jar file:/storage/emulated/0/QTool/Plugin/AGE动漫番剧推送(新版本)/jsoup-1.13.1.jar
+	at cc.hicore.qtool.JavaPlugin.Controller.PluginMethod.loadJar(PluginMethod.java:266)
+	... 16 more
+

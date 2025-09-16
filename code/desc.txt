@@ -1,0 +1,17 @@
+模拟运行各种语言
+指令：
+
+code 语言
+要执行的语句
+
+比如：
+
+code python
+print("114514")
+
+
+目前支持的语言：
+bash python c c++ javascript kotlin lua go c# java php groovy rust typescript perl nix
+
+加了开关，使用便捷菜单开关，或发送 "开启code" "关闭code" 来开关
+加了一些违禁词及其他设置，打开main.java进行设置
