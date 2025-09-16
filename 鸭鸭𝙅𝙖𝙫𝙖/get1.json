@@ -1,0 +1,350 @@
+{
+ "code": "000000",
+ "info": "",
+ "resource": [
+  {
+   "resourceType": "2",
+   "refId": "223704",
+   "copyrightId": "60054701947",
+   "contentId": "600902000006889266",
+   "songId": "2643",
+   "songName": "夜曲",
+   "singerId": "112",
+   "singer": "周杰伦",
+   "albumId": "8591",
+   "album": "十一月的萧邦",
+   "albumImgs": [
+    {
+     "imgSizeType": "03",
+     "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/c315492d03aa2db91f9699fbaa8a4677/db38d1139af153c0784b28615291b51c",
+     "fileId": "62da421b73d8440166d82524",
+     "webpImg": ""
+    },
+    {
+     "imgSizeType": "02",
+     "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/c315492d03aa2db91f9699fbaa8a4677/d380bfd871b31e3966a698dd9c0efc85",
+     "fileId": "62da421b73d8440166d82525",
+     "webpImg": ""
+    },
+    {
+     "imgSizeType": "01",
+     "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/c315492d03aa2db91f9699fbaa8a4677/3d211af8fdd6b01205325c3556f6837c",
+     "fileId": "62da421b73d8440166d82526",
+     "webpImg": ""
+    }
+   ],
+   "opNumItem": {
+    "playNum": 385414145,
+    "playNumDesc": "3.9亿",
+    "keepNum": 216835,
+    "keepNumDesc": "21.7万",
+    "commentNum": 19267,
+    "commentNumDesc": "1w+",
+    "shareNum": 242868,
+    "shareNumDesc": "24.3万",
+    "orderNumByWeek": 0,
+    "orderNumByWeekDesc": "0",
+    "orderNumByTotal": 0,
+    "orderNumByTotalDesc": "0",
+    "thumbNum": 0,
+    "thumbNumDesc": "0",
+    "followNum": 0,
+    "followNumDesc": "0",
+    "subscribeNum": 0,
+    "subscribeNumDesc": "0",
+    "livePlayNum": 385414145,
+    "livePlayNumDesc": "3.9亿",
+    "popularNum": 0,
+    "popularNumDesc": "0",
+    "bookingNum": 0,
+    "bookingNumDesc": "0"
+   },
+   "toneControl": "111111",
+   "relatedSongs": [
+    {
+     "resourceType": "1",
+     "resourceTypeName": "振铃",
+     "copyrightId": "60054701947",
+     "productId": "600902000006889265"
+    },
+    {
+     "resourceType": "3",
+     "resourceTypeName": "随身听",
+     "copyrightId": "60054701947",
+     "productId": "600902000006889267"
+    },
+    {
+     "resourceType": "E",
+     "resourceTypeName": "无损",
+     "copyrightId": "60054701947",
+     "productId": "600902000006889266"
+    },
+    {
+     "resourceType": "0",
+     "resourceTypeName": "彩铃",
+     "copyrightId": "60054701947",
+     "productId": "600902000006889264"
+    },
+    {
+     "resourceType": "D",
+     "resourceTypeName": "视频",
+     "copyrightId": "600547Y0363",
+     "productId": "600906000000389818"
+    }
+   ],
+   "rateFormats": [
+    {
+     "resourceType": "3",
+     "formatType": "LQ",
+     "url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/05/0716/2009年06月26日博尔普斯/全曲试听/Mp3_64_22_16/60054701947165339.mp3",
+     "format": "000019",
+     "size": "1815698",
+     "fileType": "mp3",
+     "price": "200"
+    },
+    {
+     "resourceType": "2",
+     "formatType": "PQ",
+     "url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/标清高清/MP3_128_16_Stero/60054701947103831.mp3",
+     "format": "020007",
+     "size": "3631023",
+     "fileType": "mp3",
+     "price": "200",
+     "showTag": [
+      "vip"
+     ]
+    },
+    {
+     "resourceType": "2",
+     "formatType": "HQ",
+     "url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/标清高清/MP3_320_16_Stero/60054701947103831.mp3",
+     "format": "020010",
+     "size": "9077240",
+     "fileType": "mp3",
+     "price": "200",
+     "showTag": [
+      "vip"
+     ]
+    },
+    {
+     "resourceType": "E",
+     "formatType": "SQ",
+     "format": "011002",
+     "size": "26873223",
+     "price": "200",
+     "iosUrl": "https://freetyst.nf.migu.cn/public/ringmaker01/n17/2017/07/无损/2009年06月26日博尔普斯/alac/夜曲-周杰伦.m4a",
+     "androidUrl": "https://freetyst.nf.migu.cn/public/ringmaker01/n17/2017/07/无损/2009年06月26日博尔普斯/flac/夜曲-周杰伦.flac",
+     "androidFileType": "flac",
+     "iosFileType": "m4a",
+     "iosSize": "27000888",
+     "androidSize": "26873223",
+     "iosFormat": "011003",
+     "androidFormat": "011002",
+     "iosAccuracyLevel": "16bit",
+     "androidAccuracyLevel": "16bit",
+     "showTag": [
+      "vip"
+     ]
+    }
+   ],
+   "newRateFormats": [
+    {
+     "resourceType": "2",
+     "formatType": "PQ",
+     "url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/标清高清/MP3_128_16_Stero/60054701947103831.mp3",
+     "format": "020007",
+     "size": "3631023",
+     "fileType": "mp3",
+     "price": "200",
+     "showTag": [
+      "vip"
+     ]
+    },
+    {
+     "resourceType": "2",
+     "formatType": "HQ",
+     "url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/标清高清/MP3_320_16_Stero/60054701947103831.mp3",
+     "format": "020010",
+     "size": "9077240",
+     "fileType": "mp3",
+     "price": "200",
+     "showTag": [
+      "vip"
+     ]
+     },
+    {
+     "resourceType": "E",
+     "formatType": "SQ",
+     "format": "011002",
+     "size": "26873223",
+     "price": "200",
+     "iosUrl": "https://freetyst.nf.migu.cn/public/ringmaker01/n17/2017/07/无损/2009年06月26日博尔普斯/alac/夜曲-周杰伦.m4a",
+     "androidUrl": "https://freetyst.nf.migu.cn/public/ringmaker01/n17/2017/07/无损/2009年06月26日博尔普斯/flac/夜曲-周杰伦.flac",
+     "androidFileType": "flac",
+     "iosFileType": "m4a",
+     "iosSize": "27000888",
+     "androidSize": "26873223",
+     "iosFormat": "011003",
+     "androidFormat": "011002",
+     "iosAccuracyLevel": "16bit",
+     "androidAccuracyLevel": "16bit",
+     "showTag": [
+      "vip"
+     ]
+    },
+    {
+     "resourceType": "2",
+     "formatType": "ZQ",
+     "price": "200",
+     "iosUrl": "https://freetyst.nf.migu.cn/public/product9th/product43/product/24bit/2021/04/10/60054701947/60054701947.m4a",
+     "androidUrl": "https://freetyst.nf.migu.cn/public/product9th/product43/product/24bit/2021/04/10/60054701947/60054701947.flac",
+     "androidFileType": "flac",
+     "iosFileType": "m4a",
+     "iosSize": "50392814",
+     "androidSize": "50032725",
+     "iosFormat": "011006",
+     "androidFormat": "011005",
+     "androidNewFormat": "011005",
+     "iosBit": 24,
+     "androidBit": 24,
+     "showTag": [
+      "vip"
+     ]
+    }
+   ],
+   "z3dCode": {
+    "resourceType": "2",
+    "formatType": "Z3D",
+    "price": "200",
+    "iosUrl": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/歌曲下载/alac_3d/60054701947103831.m4a",
+    "androidUrl": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/歌曲下载/wav_3d/60054701947103831.wav",
+    "androidFileType": "wav",
+    "iosFileType": "m4a",
+    "iosSize": "10288349",
+    "androidSize": "60024188",
+    "iosFormat": "020025",
+    "androidFormat": "020024",
+    "androidFileKey": "7887336C4D2DC09AA4627A67B86934BF",
+    "iosFileKey": "3B95C881CD5998A96790A0DA3A36C98E",
+    "h5Url": "https://freetyst.nf.migu.cn/public/product9th/product45/2022/07/2210/2009年06月26日博尔普斯/歌曲下载/wav_3d_60s/60054701947103831.wav",
+    "h5Size": "10584078",
+    "h5Format": "020026"
+   },
+   "lrcUrl": "http://d.musicapp.migu.cn/prod/file-service/file-down01/4eedd78464c21ce789dea6928415b323/a5178453ca64998b3babf931a10595d3/5d36c0d8906ba33e9a8f850674e79239",
+   "digitalColumnId": "",
+   "copyright": "1",
+   "validStatus": true,
+   "songDescs": "",
+   "songAliasName": "Nocturne",
+   "isInDAlbum": "0",
+   "isInSideDalbum": "0",
+   "isInSalesPeriod": "0",
+   "songType": "01",
+   "mrcUrl": "http://d.musicapp.migu.cn/prod/file-service/file-down01/4eedd78464c21ce789dea6928415b323/c55cee60ff5e9794182cf362e0c1f5e7/120467bce90a651cdd2e11fedeab7834",
+   "invalidateDate": "2024-12-31",
+   "dalbumId": "",
+   "trcUrl": "",
+   "vipType": "1",
+   "scopeOfcopyright": "01",
+   "auditionsType": "04",
+   "firstIcon": "1",
+   "translateName": "",
+   "chargeAuditions": "1",
+   "oldChargeAuditions": "1",
+   "songIcon": "03",
+   "auditionsLength": 60,
+   "auditionsStartTime": 67,
+   "codeRate": {
+    "PQ": {
+     "codeRateChargeAuditions": "1",
+     "codeRateAuditionsLength": 60,
+     "codeRateChargeAuditionsType": "10",
+     "isCodeRateDownload": "0",
+     "codeRateFileSize": "3631023",
+     "qualityIcon": "03"
+    },
+    "HQ": {
+     "codeRateChargeAuditions": "1",
+     "codeRateChargeAuditionsType": "10",
+     "isCodeRateDownload": "0",
+     "qualityIcon": "03"
+    },
+    "SQ": {
+     "codeRateChargeAuditions": "1",
+     "codeRateChargeAuditionsType": "10",
+     "isCodeRateDownload": "0",
+     "contentIdSQ": "600902000006889266",
+     "qualityIcon": "03"
+    },
+    "ZQ": {
+     "codeRateChargeAuditions": "1",
+     "codeRateChargeAuditionsType": "10",
+     "isCodeRateDownload": "0",
+     "qualityIcon": "03"
+    },
+    "Z3D": {
+     "codeRateChargeAuditions": "1",
+     "codeRateChargeAuditionsType": "10",
+     "isCodeRateDownload": "0",
+     "qualityIcon": "03"
+    }
+   },
+   "vipFlag": "1",
+   "isDownload": "0",
+   "hasMv": "1",
+   "mvCopyright": "01",
+   "topQuality": "SQ",
+   "firstClick": "1",
+   "preSale": "0",
+   "isShare": "0",
+   "isCollection": "0",
+   "length": "00:03:49",
+   "auditionsFlag": "9",
+   "listenFlag": "11",
+   "singerImg": {
+    "112": {
+     "singerName": "周杰伦",
+     "miguImgItems": [
+      {
+       "imgSizeType": "03",
+       "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/9696ea891ea4c3444db25dfa9aa354fd/f7d0b2a6461e26267ac37b531fe57b57",
+       "fileId": "62cfded0083c651cff6d7186",
+       "webpImg": ""
+      },
+      {
+       "imgSizeType": "02",
+       "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/9696ea891ea4c3444db25dfa9aa354fd/11bb7e3b1a46cf7225d16c5121f38cee",
+       "fileId": "62cfded0083c651cff6d7187",
+       "webpImg": ""
+      },
+      {
+       "imgSizeType": "01",
+       "img": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/9696ea891ea4c3444db25dfa9aa354fd/94286d94965e6a373c9b979ce6869593",
+       "fileId": "62cfded0083c651cff6d7188",
+       "webpImg": ""
+      }
+     ]
+    }
+   },
+   "songNamePinyin": "yequ",
+   "albumNamePinyin": "shiyiyuedexiaobang",
+   "artists": [
+    {
+     "id": "112",
+     "name": "周杰伦",
+     "nameSpelling": "zhoujielun"
+    }
+   ],
+   "landscapImg": "http://d.musicapp.migu.cn/prod/file-service/file-down01/8121e8df41a5c12f48b69aea89b71dab/6e2010de9f7128f42433ce714ae0852e/6a22ee8d1207c8e499223d2bc7caa50f",
+   "vipStartTime": "20221123153337",
+   "vipEndTime": "20241231235959",
+   "vipLogo": "1",
+   "vipDownload": "0",
+   "firstPublish": "1",
+   "firstStartTime": "20221123153337",
+   "firstEndTime": "20241231235959",
+   "materialValidStatus": true,
+   "needEncrypt": "0"
+  }
+ ]
+}
