@@ -1,0 +1,5 @@
+<br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in <b>/www/wwwroot/aqxbam1153/wwwroot/api/ksbz.php</b> on line <b>9</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(https://alimov2.a.kwimgs.com/upic/2022/05/12/20/BMjAyMjA1MTIyMDE4NDRfNTkzODY1NjI1Xzc0MjUyMjgyNzU4XzFfMw==_b_Bf47b15f10921b077d7de53a7c7d8db85.mp4?clientCacheKey=3xs8tcx6c545tsq_b.mp4&amp;amp;tt=b&amp;amp;di=78ef73a5&amp;amp;bp=10000
+): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in <b>/www/wwwroot/aqxbam1153/wwwroot/api/ksbz.php</b> on line <b>9</b><br />
