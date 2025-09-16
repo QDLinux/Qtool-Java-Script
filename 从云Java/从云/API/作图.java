@@ -1,0 +1,23 @@
+//原作者bug
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.RectF;
+import android.graphics.Typeface;
+import android.widget.Toast;
+import com.bug.http.Data;
+import com.bug.getpost.BugHttpClient;
+import com.bug.getpost.Result;
+import com.bug.utils.RegexUtils;
+import java.io.FileOutputStream;
+import java.lang.reflect.Method;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.List;
+import com.bug.json.JsonArray;
+import com.bug.json.JsonObject;
+import java.lang.String;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
